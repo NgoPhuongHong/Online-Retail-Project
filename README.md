@@ -16,47 +16,64 @@
 ![Monthly active user - MAU](images/1.jpg)
 
 
-Số lượng khách hàng có xu hướng tăng theo hằng tháng. Khoảng thời gian tăng trưởng mạnh nhất từ tháng 8/2011 - 11/2011 (tăng từ 977 KH lên 1705 KH => tăng 74.5%) 
-=> Số lượng KH tăng mạnh cuối năm có thể do nhu cầu mua sắp cuối năm tăng cao để đón năm mới hoặc công ty giảm giá sản phẩm cuối năm (Black Friday )hay thay đổi chiến lược Marketing 
-
+Số lượng khách hàng có xu hướng tăng theo hằng tháng,mặc dù đầu năm 2011 có chút giảm nhẹ. Khoảng thời gian tăng trưởng mạnh nhất từ tháng 8/2011 - 11/2011 (tăng từ 977 KH lên 1705 KH => tăng 74.5%) 
+Sự tăng đột biết cuối năm có thể do yếu tố mùa vụ (seasonality) ảnh hưởng. Như các dịp lễ hay marketing cuối năm
+=> Doanh nghiệp cần chuẩn bị nguồn hàng trước mua cao điểm cũng như có thể tăng chính sách marketing 
 ## 2. How are the number of orders and total order amount each month?
 
 ![Monthly number of orders and total order amount](images/2.jpg)
 
 
-Kết quả cho thấy số lượng đơn hàng và doanh thu hằng tháng của công ty đều tăng lên, tỷ lệ thuận với số lượng KH hằng tháng phía trên. Tăng mạnh nhất từ tháng 8/11- 11/11
+Kết quả cho thấy số lượng đơn hàng và doanh thu hằng tháng của công ty đều tăng lên, tỷ lệ thuận với số lượng KH hằng tháng phía trên.
+Tăng mạnh nhất cùng gia đoạn 8/11- 11/11
+=> Cho thấy doanh nghiệp đang thực hiện tốt chiến lược kinh doanh. 
+Có thể đề xuất triển khai upsell/bundle
 
 ## 3. Analyze the number of customers by weekdays and by hour
 
 ![The number of customers by weekdays and by hour](images/3.jpg)
 
 Công ty không có KH mua hàng vào thứ 7. Số lượng KH mua hàng nhiều rơi vào khung giờ từ 9h đến 15h (đặc biệt là khung giờ nghỉ trưa 12h) và tập trung chủ yếu vào các ngày giữa tuần từ thứ 3 đến thứ 5 thay vì cuối tuần. 
+Điều này cho thấy khách hàng có xu hướng mua sắm trong giờ hành chính hoặc giờ nghỉ trưa, thay vì buổi tối hoặc cuối tuần.
+=> Doanh nghiệp có thể thực hiện chạy marketing vào khung giờ 10h – 13h để tối ưu. 
+Bổ sung thêm nhân lực hỗ trợ các ngày giữa tuần
+Xem xét, phân tích thêm vì sao KH không mua hàng vào cuối tuần 
 
 ## 4. Top 10 Contries bring most sales for the company?
 
 ![Top 10 Countries Bring Most Sales](images/4.jpg)
 
-Anh là quốc gia mang lại doanh thu cao nhất và cao vượt trội so với các quốc gia khác (cao hơn gần 7 triêu) => đây là thị trường chủ lực có vai trò quan trọng => công ty nên tập trung vào đây là chính và có thể đầu tư thêm ở các nước Netherlands, EIRE, Germany..
+UK là quốc gia mang lại doanh thu cao nhất khoảng 7.042.220, cao gấp nhiều lần so với quốc gia đứng thứ hai.
+=> đây là thị trường chủ lực có vai trò quan trọng 
+Và lần lượt các quốc gia theo sau như Netherlands, EIRE, Germany.
+=> Doanh nghiệp nên tập trung vào thị trường UK là chính và có thể đầu tư thêm ở các nước Netherlands, EIRE, Germany..Tuy nhiên nếu phụ thuộc quá nhiều vào 1 quốc gia đôi khi cũng sẽ có rủi ro tiềm ẩn như xảy ra tranh chấp, cấm vận...
 
 ## 5. Countries with most AOV - Average Order Value
 
 ![Top 10 Average Order Value](images/5.jpg)
 
-
+Xét về giá trị trung bình mỗi đơn hàng (AOV), Netherlands dẫn đầu với mức khoảng 2.930,9, cao hơn đáng kể so với các quốc gia khác.
+Và lần lượt theo sau là Singapore, Singapore, Singapore,..
+=> Điều này cho thấy một số thị trường tuy không có tổng doanh thu lớn nhưng lại có giá trị đơn hàng trung bình rất cao.
+Các quốc gia có AOV cao là nhóm khách hàng có sức chi tiêu lớn
+=> Tăng cường quảng bá các sản phẩm giá trị cao tại những thị trường này 
 
 ## 6. How many new and old customers do you have each month
 
 ![Monthly New vs Returning Customers](images/6.jpg)
 
-Số lượng KH cũ của công ty vấn quay lại mua tăng ngày càng nhiều so với lượng khách mới thì có chiều hướng hơi giảm 
-=> công ty tập trung vào giữ chân KH hàng tốt (có nhiều ưu đãi cho KH cũ) hoặc chất lượng sản phẩm và giá thành hợp lý nên KH quay lại 
+Số lượng KH cũ của công ty vấn quay lại mua tăng ngày càng nhiều so với lượng khách mới thì có chiều hướng giảm 
+Điều này cho thấy doanh thu tăng trưởng phần lớn đến từ khách hàng trung thành quay lại mua hàng
+=> cDoanh nghiệp tập trung vào giữ chân KH hàng tốt (có nhiều ưu đãi cho KH cũ) hoặc chất lượng sản phẩm và giá thành hợp lý nên KH quay lại.
+Tuy nhiên cũng nên quan tâm đến chiến lược thu hút thêm nguồn KH mới 
 
 ## 7. Considering the new customers of December 2010, what is the average transaction value of these customers in each month when they return
 
 ![Average transaction value of new cust in 2010-12](images/7.jpg)
 
 Khách hàng đã mua hàng vào 12/2010 quay lại mua hàng nhiều hơn có xu hướng tăng dần qua các tháng, tăng mạnh nhất vào khoảng 7/2011- 10/2011
-=> công ty giữ chân được KH có thể do sản phẩm tốt đáp ứng nhu cầu KH, chiến lược chăm sóc KH tốt, khuyến mãi tốt hoặc nhu cầu mua hàng cuối năm
+Sau khi giảm nhẹ vào khoảng tháng 04/2011, chỉ số này phục hồi và tăng liên tục, đạt đỉnh vào khoảng tháng 09–10/2011.
+=> KH có xu hướng quay lại mua hàng dịp cuối năm => Doanh nghiệp cần đẩy mạnh chương trình marketing hơn vào cuối năm cũng như đảm bảo chất lượng dịch vụ để KH hài lòng 
 
 
 ## 8.Customer Segmentation
@@ -83,8 +100,11 @@ Visualization
 
 tỷ lệ khách hàng và doanh thu theo từng phân khúc không tương đồng với nhau
 Low value chiếm 29% lượng KH nhưng chỉ đem về doanh thu 5.1%
-ngược lại Loyal chỉ chiếm 12.1% lượng KH nhưng đem lại doanh thu rất cao 46.9% => cần chú ý vào tệp KH này và chăm sóc tốt hơn VIP
-Losing potential loyal chiếm lượng KH lớn nhất 34.7%, doanh thu đem lại 19.2% cũng tương đối nhưng vẫn chưa hiệu quả => tệp KH tiềm năng cần phát triển
+ngược lại Loyal chỉ chiếm 12.1% lượng KH nhưng đem lại doanh thu rất cao 46.9%
+Losing potential loyal chiếm lượng KH lớn nhất 34.7%, doanh thu đem lại 19.2% cũng tương đối nhưng vẫn chưa hiệu quả 
+=> Nhóm Loyal customers là nhóm khách hàng giá trị cao (VIP), cần ưu tiên chăm sóc và duy trì.
+Nhóm Losing potential loyal là nhóm tiềm năng, nếu có chiến lược giữ chân phù hợp có thể chuyển đổi thành loyal customers.
+Nhóm Low value nên được tối ưu chi phí marketing để tránh lãng phí nguồn lực.
 
 ## 9. Customer Behavior Analysis Using Cohort Analysis
 
