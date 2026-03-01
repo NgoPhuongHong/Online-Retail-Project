@@ -13,3 +13,11 @@
 
 ## How many monthly active user (MAU) each month?
 
+![Monthly active user - MAU](images/1.jpg)
+
+Số lượng khách hàng có xu hướng tăng theo hằng tháng. Khoảng thời gian tăng trưởng mạnh nhất từ tháng 8/2011 - 11/2011 (tăng từ 977 KH lên 1705 KH => tăng 74.5%) 
+=> Số lượng KH tăng mạnh cuối năm có thể do nhu cầu mua sắp cuối năm tăng cao để đón năm mới hoặc công ty giảm giá sản phẩm cuối năm (Black Friday )hay thay đổi chiến lược Marketing 
+
+## How are the number of orders and total order amount each month?
+
+
